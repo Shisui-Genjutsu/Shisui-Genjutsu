@@ -22,7 +22,7 @@
 #
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shisui-Genjutsu&show_icons=true&theme=radical&locale=en&layout=compact" alt="shisui-genjutsu" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shisui-genjutsu&show_icons=true&locale=en&layout=compact" alt="shisui-genjutsu" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shisui-genjutsu&label=Profile%20views&color=0e75b6&style=flat" alt="shisui-genjutsu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shisui-genjutsu&label=Profile%20views&color=0e75b6&style=flat" alt="shisui-genjutsu" /> </p>
 &nbsp;
 <p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu" /></p>
 <p><img align="left" width="200" src="https://cdn.dribbble.com/users/1807067/screenshots/4314607/loadygif.gif" alt="shisui-genjutsu" /></p>
