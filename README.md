@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **I like spider man**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shisui-genjutsu&label=Profile%20views&color=0e75b6&style=flat" alt="shisui-genjutsu" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" height="30" width="40" /></a>
@@ -24,6 +22,7 @@
 #
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shisui-Genjutsu&show_icons=true&theme=radical&locale=en&layout=compact" alt="shisui-genjutsu" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shisui-genjutsu&show_icons=true&locale=en&layout=compact" alt="shisui-genjutsu" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shisui-genjutsu&label=Profile%20views&color=0e75b6&style=flat" alt="shisui-genjutsu" /> </p>
 &nbsp;
 <p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu" /></p>
 <p><img align="left" width="200" src="https://cdn.dribbble.com/users/1807067/screenshots/4314607/loadygif.gif" alt="shisui-genjutsu" /></p>
