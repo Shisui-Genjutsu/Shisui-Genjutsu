@@ -26,9 +26,7 @@
 &nbsp;
 <p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu" /></p>
 <p><img align="left" width="200" src="https://cdn.dribbble.com/users/1807067/screenshots/4314607/loadygif.gif" alt="shisui-genjutsu" /></p>
-
-<h3 align="left">Thanks for Visiting my GitHub Profile!</h3>
 <br clear="both">
-
+<h3 align="left">Thanks for Visiting my GitHub Profile!</h3>
 <img src="https://raw.githubusercontent.com/S/S/blob/output/snake.svg" alt="Snake animation" />
 
