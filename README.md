@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BhaskarGuthula</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<p><img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shisui-genjutsu" /></p>
 - 🌱 I’m currently learning **Next JS, Solidify and spline**
 
 - 👨‍💻 my portfolio [https://bhaskarguthula.com/](https://bhaskarguthula.com/)
@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shisui-Genjutsu&show_icons=true&theme=radical&locale=en&layout=compact" alt="shisui-genjutsu" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shisui-genjutsu&show_icons=true&locale=en&layout=compact" alt="shisui-genjutsu" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu" /></p>
+
+
