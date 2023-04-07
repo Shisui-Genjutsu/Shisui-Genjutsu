@@ -1,3 +1,4 @@
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://user-images.githubusercontent.com/112178680/230601637-82e1f460-b187-4c08-9e23-07cce2e0ca1a.png)
 <h1 align="center">Hi 👋, I'm BhaskarGuthula</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <p><img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shisui-genjutsu" /></p>
