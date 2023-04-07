@@ -28,6 +28,6 @@
 <p><img align="left" width="200" src="https://cdn.dribbble.com/users/1807067/screenshots/4314607/loadygif.gif" alt="shisui-genjutsu" /></p>
 <br clear="both">
 <h3 align="left">Thanks for Visiting my GitHub Profile!</h3>
-<p><img align="center" src="https://github.com/Shisui-Genjutsu/Shisui-Genjutsu/blob/output/github-contribution-grid-snake.gif" alt="shisui-genjutsu" /></p>
+<p  align="center"><img  align="center" src="https://github.com/Shisui-Genjutsu/Shisui-Genjutsu/blob/output/github-contribution-grid-snake.gif" alt="shisui-genjutsu" /></p>
 
 
