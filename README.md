@@ -4,7 +4,7 @@
 <p><img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shisui-genjutsu" /></p>
 - 🌱 I’m currently learning **Next JS, Solidify and spline**
 
-- 👨‍💻 my portfolio [https://bhaskarguthula.com/](https://bhaskarguthula.com/)
+- 👨‍💻 my portfolio [https://bhaskarguthula.sabs.cc/](https://bhaskarguthula.sabs.cc/)
 
 - 💬 Ask me about **React, Django, FastAPI**
 
