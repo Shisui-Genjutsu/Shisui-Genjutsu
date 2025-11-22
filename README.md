@@ -1,104 +1,36 @@
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://user-images.githubusercontent.com/112178680/230601637-82e1f460-b187-4c08-9e23-07cce2e0ca1a.png)
+<h1 align="center">Hi 👋, I'm BhaskarGuthula</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+<p><img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shisui-genjutsu" /></p>
+- 🌱 I’m currently learning **Next JS, Solidify and spline**
 
-<h1 align="center">Hi 👋, I'm Bhaskar Guthula</h1>
-<h3 align="center">
-  Full Stack Developer | MERN Expert | FastAPI Specialist<br/>
-  Open to SaaS & Real-time Collaboration Projects
-</h3>
+- 👨‍💻 my portfolio [https://bhaskar.guthula.cc/](https://bhaskar.guthula.cc/)
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="Developer at work"/>
+- 💬 Ask me about **React, Django, FastAPI**
+
+- 📫 How to reach me **bhaskarguthula1674@gmail.com**
+
+- ⚡ Fun fact **I like spider man**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" target="_blank"><img align="center" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-### 🚀 About Me
-- **3+ years’ experience in full stack web development (MERN, FastAPI)**
-- Expert in backend APIs, scalable cloud, real-time collaboration
-- Building for developer productivity, clean code, and modern workflows
-- Location: Hyderabad, India (Open to remote/global roles)
+<h3 align="left">My Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shisui-Genjutsu&show_icons=true&theme=radical&locale=en&layout=compact" alt="shisui-genjutsu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shisui-genjutsu&show_icons=true&locale=en&layout=compact" alt="shisui-genjutsu" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shisui-genjutsu&label=Profile%20views&color=0e75b6&style=flat" alt="shisui-genjutsu" /> </p>
+&nbsp;
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu" /></p>
+<p><img align="left" width="200" src="https://cdn.dribbble.com/users/1807067/screenshots/4314607/loadygif.gif" alt="shisui-genjutsu" /></p>
+<br clear="both">
+<h3 align="left">Thanks for Visiting my GitHub Profile!</h3>
 
-### 🌱 Learning & Exploring
-- Modern frontend: Next.js, Remix, SolidJS, Spline (3D web)
-- SaaS architecting, utility tools for devs & creators
-- **Portfolio:** [bhaskar.guthula.cc](https://bhaskar.guthula.cc)
+<p align="center" ><img src="https://github.com/Shisui-Genjutsu/Shisui-Genjutsu/blob/output/github-contribution-grid-snake.svg" alt="shisui-genjutsu" /></p>
 
-### 💬 Tech I’m Comfortable With
-- React, Next.js – SPA/SSR/Edge
-- FastAPI, Django, Flask – Async APIs, Auth, Microservices
-- MongoDB, Redis, MinIO – DB, cache, object storage
-- Real-time: Yjs, PartyKit, BlockNote
 
-### 🏆 Projects & Achievements
-- Core dev: School management SaaS @ STL Digital
-- Collaborative ePaper editor, sports utilities, SaaS demos (see pinned repos)
-
-### 📫 Find Me At
-- **Email:** bhaskarguthula1674@gmail.com
-- **LinkedIn:** [bhaskar linkedin](https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/)
-- **Portfolio:** [bhaskar.guthula.cc](https://bhaskar.guthula.cc)
-
-### ⚡ Fun Fact
-- Spider-Man inspires my dev story!
-
----
-
-<h3>🛠️ Languages, Frameworks & Tools</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-</p>
-
----
-
-<h3>📊 GitHub Stats & Insights</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shisui-Genjutsu&show_icons=true&theme=radical&locale=en&layout=compact" alt="shisui-genjutsu"/>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shisui-genjutsu&show_icons=true&locale=en&layout=compact" alt="shisui-genjutsu"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shisui-genjutsu&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-<p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu"/>
-</p>
-
----
-
-<h3>🌐 Connect With Me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:bhaskarguthula1674@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">Thanks for Visiting my GitHub Profile!</h3>
-<p align="center">
-  <img src="https://github.com/Shisui-Genjutsu/Shisui-Genjutsu/blob/output/github-contribution-grid-snake.svg" alt="shisui-genjutsu"/>
-</p>
-
----
-
-> **Recruiters / Devs:**  
-> - Check [bhaskar.guthula.cc](https://bhaskar.guthula.cc) for latest projects and SaaS demos  
-> - Pinned repos highlight MERN, FastAPI, and real-time work  
-> - Clean code, clear docs, and active side projects!
 
