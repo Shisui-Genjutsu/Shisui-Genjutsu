@@ -63,6 +63,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/177543?s=48&v=4" alt="mongodb" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -85,8 +88,35 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/13142323?s=48&v=4" alt="redux" width="40" height="40"/>
   </a>
-  <a href="" target="_blank" rel="noreferrer">
+  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/6764390?s=48&v=4" alt="elasticsearch" width="40" height="40"/>
+  </a>
+  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4" alt="reacthookform" width="40" height="40"/>
+  </a>
+  <a href="https://hono.dev/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/98495527?s=48&v=4" alt="honojs" width="40" height="40"/>
+  </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4" alt="socketio" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" alt="graphql" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mYsk1D-H-vabi2JpQZvT9Q.png" alt="kafka" width="80" height="80"/>
+  </a>
+  <a href="https://firebase.google.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=20100026058&gbraid=0AAAAADpUDOg6Jxkn_rCP6WjFZvTrxvuBR&gclid=EAIaIQobChMIt6Cpr5-TkQMVaaJmAh3ejTv4EAAYASAAEgKQTfD_BwE" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/54469796?s=48&v=4" alt="supabase" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" alt="grafana" width="40" height="40"/>
+  </a>
+  <a href="https://liveblocks.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/76756571?s=48&v=4" alt="liveblocks" width="40" height="40"/>
   </a>
 
 
