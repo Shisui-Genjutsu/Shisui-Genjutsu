@@ -1,23 +1,13 @@
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://user-images.githubusercontent.com/112178680/230601637-82e1f460-b187-4c08-9e23-07cce2e0ca1a.png)
 <h1 align="center">Hi 👋, I'm Bhaskar Guthula</h1>
-<h4 align="justify">A passionate Full-stack developer specializing in modern JavaScript/ Typescript, Python, and cloud-native architectures, building production-grade apps with Next.js, React, FastAPI, and Node.js across MongoDB/MySQL backends and AWS/Cloudflare infrastructure. Focused on real-time, AI-powered, and edge-deployed products—such as collaborative editors, AI code tools, and fintech dashboards—optimizing for performance, DX, and scalability from frontend UX to backend systems and DevOps.​</h3>
+<p align="justify">A passionate Full-stack developer specializing in modern JavaScript/ Typescript, Python, and cloud-native architectures, building production-grade apps with Next.js, React, FastAPI, and Node.js across MongoDB/MySQL backends and AWS/Cloudflare infrastructure. Focused on real-time, AI-powered, and edge-deployed products—such as collaborative editors, AI code tools, and fintech dashboards—optimizing for performance, DX, and scalability from frontend UX to backend systems and DevOps.​</p>
 <p>
-  <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shisui-genjutsu" />
+  <!-- <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shisui-genjutsu" /> -->
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=shisui-genjutsu&label=Profile%20views&color=0e75b6&style=flat" alt="shisui-genjutsu" /> </p>
 </p>
 
-🌱 I’m currently learning **Web3, Blockchain**
-
-👨‍💻 my portfolio [https://bhaskar.guthula.cc](https://bhaskar.guthula.cc)
-
-💬 Ask me about **Real-time collaboration, AI-powered Sass Tools, Microservices**
-
-📫 How to reach me **bhaskarguthula1674@gmail.com**
-
-⚡ Fun fact **I am spider man**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" target="_blank"><img align="center" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" height="30" width="40" /></a>
 <a href="https://bhaskar.guthula.cc" target="_blank"><img align="center" width="100" src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" height="30" width="40" /></a>
 <a href="mailto:bhaskarguthula1674@gmail.com" target="_blank"><img align="center" width="100" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="30" width="40" /></a>
@@ -135,14 +125,15 @@
 </p>
  <br />
 
-<h3 align="left">My Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shisui-genjutsu&show_icons=true&locale=en&layout=compact" alt="shisui-genjutsu" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu" /></p>
+<h3 align="center">My Stats:</h3>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shisui-genjutsu&show_icons=true&locale=en&layout=compact" alt="shisui-genjutsu" /> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu" /></p>
 <!-- <p><img align="left" width="200" src="https://cdn.dribbble.com/users/1807067/screenshots/4314607/loadygif.gif" alt="shisui-genjutsu" /></p> -->
-<br clear="both">
-<h3 align="left">Thanks for Visiting my GitHub Profile!</h3>
+<!-- <br clear="both"> -->
+<p align="center"><img align="center" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shisui-genjutsu" /></p>
+<h3 align="center">Thanks for Visiting my GitHub Profile!</h3>
 
-<p align="center" ><img src="https://github.com/Shisui-Genjutsu/Shisui-Genjutsu/blob/output/github-contribution-grid-snake.svg" alt="shisui-genjutsu" /></p>
+<!-- <p align="center" ><img src="https://github.com/Shisui-Genjutsu/Shisui-Genjutsu/blob/output/github-contribution-grid-snake.svg" alt="shisui-genjutsu" /></p> -->
 
 
 
