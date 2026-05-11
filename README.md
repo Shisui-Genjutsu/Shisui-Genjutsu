@@ -32,17 +32,19 @@
     <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="40"/></a></td>
-    <td><a href="https://remix.run"><img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://remix.run"><img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" width="40" height="80"/></a></td>
     <td><a href="https://nodejs.org"><img src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4" width="40" height="40"/></a></td>
     <td><a href="https://expressjs.com"><img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" width="40" height="40"/></a></td>
     <td><a href="https://fastapi.tiangolo.com/"><img src="https://avatars.githubusercontent.com/u/156354296?s=48&v=4" width="40" height="40"/></a></td>
     <td><a href="https://www.mongodb.com/"><img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://www.langchain.com/"><img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" width="40" height="40"/></a></td>
   </tr>
   <tr>
     <td><a href="https://www.postgresql.org/"><img src="https://avatars.githubusercontent.com/u/177543?s=48&v=4" width="40" height="40"/></a></td>
     <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://aws.amazon.com/"><img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://cloud.google.com/icons?hl=en"><img src="https://raw.githubusercontent.com/AwesomeLogos/google-cloud-icons/main/docs/favicon.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.cloudflare.com/"><img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="40" height="40"/></a></td>
     <td><a href="https://tanstack.com/query/latest"><img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="40" height="40"/></a></td>
     <td><a href="https://zustand-demo.pmnd.rs/"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40"/></a></td>
@@ -61,6 +63,7 @@
     <td><a href="https://liveblocks.io/"><img src="https://avatars.githubusercontent.com/u/76756571?s=48&v=4" width="40" height="40"/></a></td>
     <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.trychroma.com/"><img src="https://avatars.githubusercontent.com/u/105881770?s=48&v=4" width="40" height="40"/></a></td>
   </tr>
 </table>
 
