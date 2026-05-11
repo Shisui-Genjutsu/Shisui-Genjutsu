@@ -11,126 +11,64 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" target="_blank"><img align="center" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" height="30" width="40" /></a>
-<a href="https://bhaskar.guthula.cc" target="_blank"><img align="center" width="100" src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" height="30" width="40" /></a>
-<a href="mailto:bhaskarguthula1674@gmail.com" target="_blank"><img align="center" width="100" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Technologies:</h3>
-<p align="left">
-
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/bhaskar-rama-suresh-guthula-38162519b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  
+  <a href="https://bhaskar.guthula.cc" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <!-- Frontend Frameworks -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" width="130" height="130"/>
-  </a>
-  <a href="https://remix.run" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remixjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactrouter.com" target="_blank" rel="noreferrer">
-    <img src="https://reactrouter.com/splash/v7-badge-2.svg" alt="reactrouterv7" width="80" height="80"/>
-  </a>
-
-  <!-- Backend & APIs -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/156354296?s=48&v=4" alt="fastapi" width="40" height="40"/>
-  </a>
-
-  <!-- Databases & Caching -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/177543?s=48&v=4" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-
-  <!-- Cloud & DevOps -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-    <img src="https://gist.githubusercontent.com/Mqxx/1a3f1feb6b55f6ce193dd9e7e66efcaf/raw/c9faf3d4f4d5f00c9fb08a5007a3309aeffe5c8b/cloudflare_worker_badge_light.svg" alt="cloudflare" width="110" height="110"/>
-  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="tanstack" width="40" height="40"/>
-  </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="zustand" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/13142323?s=48&v=4" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/6764390?s=48&v=4" alt="elasticsearch" width="40" height="40"/>
-  </a>
-  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4" alt="reacthookform" width="40" height="40"/>
-  </a>
-  <a href="https://hono.dev/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/98495527?s=48&v=4" alt="honojs" width="40" height="40"/>
-  </a>
-  <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4" alt="socketio" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mYsk1D-H-vabi2JpQZvT9Q.png" alt="kafka" width="80" height="80"/>
-  </a>
-  <a href="https://firebase.google.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=20100026058&gbraid=0AAAAADpUDOg6Jxkn_rCP6WjFZvTrxvuBR&gclid=EAIaIQobChMIt6Cpr5-TkQMVaaJmAh3ejTv4EAAYASAAEgKQTfD_BwE" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/54469796?s=48&v=4" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://liveblocks.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/76756571?s=48&v=4" alt="liveblocks" width="40" height="40"/>
-  </a>
-
-
-    
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-
-  <!-- Tools -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  
+  <a href="mailto:bhaskarguthula1674@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </p>
- <br />
 
-<h3 align="center">My Stats:</h3>
+<h3 align="center">Technologies:</h3>
+<table align="center">
+  <tr>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td><a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="40"/></a></td>
+    <td><a href="https://remix.run"><img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://nodejs.org"><img src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://expressjs.com"><img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://fastapi.tiangolo.com/"><img src="https://avatars.githubusercontent.com/u/156354296?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://www.mongodb.com/"><img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.postgresql.org/"><img src="https://avatars.githubusercontent.com/u/177543?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td><a href="https://aws.amazon.com/"><img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://www.cloudflare.com/"><img src="https://avatars.githubusercontent.com/u/314135?s=200&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://tanstack.com/query/latest"><img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://zustand-demo.pmnd.rs/"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40"/></a></td>
+    <td><a href="https://redux.js.org"><img src="https://avatars.githubusercontent.com/u/13142323?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://www.elastic.co/elasticsearch"><img src="https://avatars.githubusercontent.com/u/6764390?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://react-hook-form.com/"><img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://hono.dev/"><img src="https://avatars.githubusercontent.com/u/98495527?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://socket.io/"><img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://graphql.org/"><img src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://kafka.apache.org/"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mYsk1D-H-vabi2JpQZvT9Q.png" width="80" height="40"/></a></td>
+    <td><a href="https://firebase.google.com/"><img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://supabase.com/"><img src="https://avatars.githubusercontent.com/u/54469796?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://grafana.com/"><img src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://liveblocks.io/"><img src="https://avatars.githubusercontent.com/u/76756571?s=48&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
+
+-------------------------
+<!-- <h3 align="center">My Stats:</h3> -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shisui-genjutsu&show_icons=true&locale=en&layout=compact" alt="shisui-genjutsu" /> -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shisui-genjutsu&" alt="shisui-genjutsu" /></p> -->
 <!-- <p><img align="left" width="200" src="https://cdn.dribbble.com/users/1807067/screenshots/4314607/loadygif.gif" alt="shisui-genjutsu" /></p> -->
 <!-- <br clear="both"> -->
 <p align="center"><img align="center" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shisui-genjutsu" /></p>
